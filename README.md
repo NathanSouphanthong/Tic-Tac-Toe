@@ -8,17 +8,17 @@ Players wins when 4 'X's or 'O's are placed in a horizontal, diagonal or vertica
 If the game board is filled with no winner, the game board will reset.
 
 Game Configuration: 
+<br> <br> 
 
-
-<img src="images/gameboard1.png"> 
 Empty board 
+<img src="images/gameboard1.png"> 
 <br> <br> 
 
-
+Board during game
 <img src="images/gameboard2.png"> 
-Board during game 
 <br> <br> 
 
-<img src="images/gameboard3.png"> 
+
 Board at end of game
+<img src="images/gameboard3.png"> 
 <br> <br> 
