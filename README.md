@@ -12,13 +12,13 @@ Game Configuration:
 
 <img src="images/gameboard1.png"> 
 Empty board 
-<br> 
+<br> <br> 
 
 
 <img src="images/gameboard2.png"> 
 Board during game 
-<br>
+<br> <br> 
 
 <img src="images/gameboard3.png"> 
 Board at end of game
-<br> 
+<br> <br> 
