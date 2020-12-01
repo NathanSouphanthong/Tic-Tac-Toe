@@ -9,9 +9,14 @@ If the game board is filled with no winner, the game board will reset.
 
 Game Configuration: 
 
+
 <img src="images/gameboard1.png"> 
 Empty board 
 
 
+
 <img src="images/gameboard2.png"> 
 Board during game 
+
+<img src="images/gameboard3.png"> 
+Board at end of game 
